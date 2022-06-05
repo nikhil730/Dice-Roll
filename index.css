@@ -34,9 +34,24 @@
   
   footer {
     font-size: 2rem;
-    margin-top: 5%;
+    margin-top: 2%;
     color: #EEEEEE;
     text-align: center;
     font-family: 'Indie Flower', cursive;
   
+  }
+  .reload{
+    text-align: center;
+    
+  }
+  .reload-btn{
+    background: #9C060C;
+    border: 1px solid #9C060C;
+    margin-top: 30px;
+    padding: 10px;
+    color: white;
+    border-radius: 20%;
+  }
+  em{
+    font-size: 20px;
   }

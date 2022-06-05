@@ -21,3 +21,7 @@ else if(randomnumber1<randomnumber2){
 else{
     heading.textContent="Draw";
 }
+
+var reload=document.querySelector("button").addEventListener("click",function(){
+    location.reload();
+})
